@@ -1,6 +1,6 @@
 ### Hi there, I'm AzDemise
 
-## I'm a C# Developer from Britain
+## I'm a C# Developer
 
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with other C# Devs
