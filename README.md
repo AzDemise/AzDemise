@@ -1,7 +1,7 @@
 ### Hi there, I'm AzDemise
 
 ## I'm a C# Developer
-- Deleted Old Github, This github will be active 16/12/2021
+- Deleted Old Github, This github will be some day
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with other C# Devs
 - ⚡ Age: 17
